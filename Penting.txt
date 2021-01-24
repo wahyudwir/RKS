@@ -1,0 +1,6 @@
+web : gunungsakti
+password :PL%VcsD)g)*Ix84mV3dT
+
+db : id15957673_dbgunungsakti
+use b : id15957673_gunungsakti
+password : JE=cSbM?r$o/aGr8
